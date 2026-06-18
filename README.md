@@ -1,5 +1,4 @@
 CS-230 Operating Platforms
-Software Design Document
 
 This repository contains my completed software design document for CS-230 Operating Platforms.
 
